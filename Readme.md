@@ -1,10 +1,3 @@
-Awesome choice! **`QTBox`** (short for *Quant Toolkit Box*) sounds sharp, clean, and professional — perfect for an expanding modular library like yours.
-
-Here’s a **stylish and informative `README.md`** for your GitHub project:
-
----
-
-````markdown
 # 🧠 QTBox — Quant Toolkit Box
 
 **QTBox** is your all-in-one **Swiss Army Knife for algorithmic trading** — a lightweight, modular toolkit built to handle market data like a pro. Whether you're backtesting strategies, resampling tick data, or building live trading signals, QTBox gives you a fast, flexible foundation to build on.
