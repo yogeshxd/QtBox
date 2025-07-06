@@ -5,7 +5,7 @@ QTBox expects tab-delimited M1 CSV files with the following format:
 
 ## Example
 
-````
+```
 
 <DATE>        <TIME>       <OPEN>  <HIGH>  <LOW>   <CLOSE> <TICKVOL>
 2024.01.02    00:01:00     2045.0  2045.5  2044.8  2045.2   110
