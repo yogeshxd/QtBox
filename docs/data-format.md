@@ -28,6 +28,6 @@ QTBox expects tab-delimited M1 CSV files with the following format:
 
 history/
 └── XAUUSD/
-└── M1.csv
+   └── M1.csv
 
 ```
