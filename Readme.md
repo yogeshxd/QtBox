@@ -17,7 +17,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/qtbox.git
+git clone https://github.com/yogeshxd/qtbox.git
 cd qtbox
 pip install -r requirements.txt
 ````
